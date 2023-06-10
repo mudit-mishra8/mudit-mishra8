@@ -1,6 +1,6 @@
 # 🧑‍💻 Introducing Myself
 
-Hi there! I'm **Mudit**, a data professional with a strong proficiency in **SQL, Python, Data Science, and Data Engineering**. With **4 years of analytical experience** and a **Masters's degree in Business Analytics**, I am passionate about leveraging data to drive insights and make informed decisions. You can explore some of my project in my portfolio : [Projects](URL)
+Hi there! I'm **Mudit**, a data professional with a strong proficiency in **SQL, Python, Data Science, and Data Engineering**. With **4 years of analytical experience** and a **Masters's degree in Business Analytics**, I am passionate about leveraging data to drive insights and make informed decisions. You can explore some of my project in my portfolio : [Projects]([URL](https://github.com/mudit-mishra8/My-Portfolio/blob/main/README.md))
 
 🔎 **Expertise**
 
