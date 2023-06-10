@@ -6,7 +6,7 @@ Hi there! I'm **Mudit**, a data professional with a strong proficiency in **SQL,
 
 I excel in various areas including:
 
-- **SQL**: I possess in-depth knowledge of SQL, including advanced querying, optimization, and database design. I have successfully developed and optimized numerous complex queries and facilitating efficient data retrieval.I also worked as a SQL consultant for a platform called Data Lemur.
+- **SQL**: I possess in-depth knowledge of SQL, including advanced querying, optimization, and database design. I have successfully developed and optimized numerous complex queries and facilitating efficient data retrieval.I also worked as a SQL consultant for a sql learning platform Data Lemur.
 
 - **Python**: I am proficient in Python and utilize it for data manipulation, analysis, and visualization. With libraries like **NumPy** and **Pandas**, I am capable of handling large datasets, performing statistical analysis, and generating meaningful visualizations.
 
