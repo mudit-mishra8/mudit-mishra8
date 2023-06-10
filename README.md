@@ -8,7 +8,7 @@ I excel in various areas including:
 
 - **SQL**: I possess in-depth knowledge of SQL, including advanced querying, optimization, and database design. I have successfully developed and optimized numerous complex queries and facilitating efficient data retrieval.I also worked as a SQL consultant for a sql learning platform Data Lemur.
 
-- **Python**: I am proficient in Python and utilize it for data manipulation, analysis, and visualization. With libraries like **NumPy** and **Pandas**, I am capable of handling large datasets, performing statistical analysis, and generating meaningful visualizations.
+- **Python**: I am proficient in Python and utilize it for data manipulation, analysis, and visualization. I have done several data analysis, web scrapping, data science projects using python.  
 
 - **Data Science**: I have a solid foundation in data science methodologies, including data preprocessing, exploratory data analysis, and machine learning. By applying advanced analytics techniques, I uncover valuable insights and build predictive models to support decision-making processes.
 
