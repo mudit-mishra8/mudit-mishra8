@@ -14,10 +14,6 @@ I excel in various areas including:
 
 - **Data Engineering**: I am skilled in data engineering practices, such as data extraction, transformation, and loading (ETL) processes.
 
-📚 **Projects**
-
-You can explore some of my projects and contributions in my portfolio.
-
 💼 **Professional Interests**
 
 I am actively seeking new opportunities in roles such as **Data Analyst, Business Intelligence Analyst, SQL Developer, Database Administrator,Data Scientist, Data Engineer and Analytics Engineer**. I am passionate about applying my skills and expertise to contribute to data-driven initiatives and help organizations unlock the full potential of their data.
