@@ -1,23 +1,36 @@
-# 🙆‍♂️ Introducing Myself
+# 🙆‍♂️ My Introduction
 
-Hi there! I'm **Mudit**, a data professional with a strong proficiency in **SQL, Python, Data Science, and Data Engineering**. With **4 years of analytical experience** and a **Masters's degree in Business Analytics**, I am passionate about leveraging data to drive insights and make informed decisions. You can explore some of my project in my portfolio : [Project Portfolio](https://github.com/mudit-mishra8/My-Portfolio/blob/main/README.md)
+Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data into meaningful insights. 🌟 With a Master's degree in Business Analytics and 4 years of hands-on experience, I'm eager to tackle complex data challenges. Take a peek at my [Project Portfolio](https://github.com/mudit-mishra8/My-Portfolio/blob/main/README.md) to see what I’ve been up to!
 
-🔎 **Expertise**
+## 🛠 **Skills & Expertise**
 
-I excel in various areas including:
+### **SQL**
+- 🧩 Deep understanding of SQL including advanced querying and optimization.
+- 🚀 Developed and optimized numerous complex queries for efficient data retrieval.
+- 🎓 Served as an SQL consultant for the learning platform [Data Lemur](https://datalemur.com/).
 
-- **SQL**: I possess in-depth knowledge of SQL, including advanced querying, optimization, and database design. I have successfully developed and optimized numerous complex queries and facilitating efficient data retrieval.I also worked as a SQL consultant for a sql learning platform Data Lemur.
+### **Python**
+- 🐍 Skilled in Python for data manipulation, analysis, and visualization.
+- 🕸️ Accomplished in web scraping and data science projects.
 
-- **Python**: I am proficient in Python and utilize it for data manipulation, analysis, and visualization. I have done several data analysis, web scrapping, data science projects using python.  
+### **Data Science**
+- 🔬 Proficient in data preprocessing, exploratory data analysis, machine learning, deep learning and NLP.
+- 📈 Develop predictive models and analytics techniques to support decision-making.
 
-- **Data Science**: I have a solid foundation in data science methodologies, including data preprocessing, exploratory data analysis, and machine learning. By applying advanced analytics techniques, I uncover valuable insights and build predictive models to support decision-making processes.
+### **Data Engineering**
+- 🌉 Expertise in data engineering, including data extraction, transformation, and loading (ETL).
 
-- **Data Engineering**: I am skilled in data engineering practices, such as data extraction, transformation, and loading (ETL) processes.
+## **🔭 Professional Interests**
 
-💼 **Professional Interests**
+I'm thrilled to explore new opportunities in roles such as:
+- Data Analyst
+- Business Intelligence Analyst
+- Data Scientist
+- Data Engineer
+- Analytics Engineer
 
-I am actively seeking new opportunities in roles such as **Data Analyst, Business Intelligence Analyst, SQL Developer, Database Administrator,Data Scientist, Data Engineer and Analytics Engineer**. I am passionate about applying my skills and expertise to contribute to data-driven initiatives and help organizations unlock the full potential of their data.
+## **💌 Get in Touch**
 
-Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+Excited about data as I am? Feel free to reach out for questions, collaborations, or just to say hi! 
 
-Let's make data tell its story together! 📊🔬
+*Contact Me: [LinkedIn](http://linkedin.com/in/mudit-01870721a) | [Email](mailto:mishramudit031@gmail.com)*
