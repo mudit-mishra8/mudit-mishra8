@@ -6,13 +6,13 @@ Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data 
 
 | Skill Domain      | Skills                                                                           |
 |-------------------|----------------------------------------------------------------------------------|
-| **SQL**           |  🚀 Developed and optimized complex queries                                                 |
-|                   | 🎓 Served as a SQL consultant at [Data Lemur](https://datalemur.com/)             |
-| **Python**        | 🐍 Proficient in data manipulation, analysis, and visualization using Python     |
-|                   | 🕸️ Experienced in web scraping and executing data science projects                |
-| **Data Science**  | 🔬 Skilled in data preprocessing, exploratory data analysis (EDA), machine learning (ML), deep learning (DL), and natural language processing (NLP)   |
-|                   | 📈 Adept at building predictive models and applying analytics techniques           |
-| **Data Engineering** | 🌉 Proficient in data extraction, transformation, and loading (ETL) processes   |
+| **SQL**           |  🚀 Developed and optimized complex queries.                                                 |
+|                   | 🎓 Served as a SQL consultant at [Data Lemur](https://datalemur.com/).             |
+| **Python**        | 🐍 Proficient in data manipulation, analysis, and visualization using Python.     |
+|                   | 🕸️ Experienced in web scraping and executing data science projects.                |
+| **Data Science**  | 🔬 Skilled in data preprocessing, exploratory data analysis (EDA), machine learning (ML), deep learning (DL), and natural language processing (NLP).   |
+|                   | 📈 Adept at building predictive models and applying analytics techniques.           |
+| **Data Engineering** | 🌉 Proficient in data extraction, transformation, and loading (ETL) processes.   |
 
 
 ## **🔭 Professional Interests**
