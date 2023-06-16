@@ -4,18 +4,17 @@ Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data 
 
 ## 🛠 **Skills & Expertise**
 
-```
-| Skill Domain    | Skills                                                |
-|-----------------|-------------------------------------------------------|
-| **SQL**         | 🧩 Deep understanding                                 |
-|                 | 🚀 Developed complex queries                          |
-|                 | 🎓 SQL consultant at [Data Lemur](https://datalemur.com/).                       |
-| **Python**      | 🐍 Data manipulation, analysis, visualization         |
-|                 | 🕸️ Web scraping and data science                     |
-| **Data Science**| 🔬 Data preprocessing, EDA, ML, DL, NLP               |
-|                 | 📈 Predictive models and analytics                    |
-| **Data Engineering** | 🌉 Data extraction, transformation, and loading (ETL) |
-```
+| Skill Domain      | Skills                                                                           |
+|-------------------|----------------------------------------------------------------------------------|
+| **SQL**           | 🧩 Deep understanding of SQL                                                      |
+|                   | 🚀 Developed and optimized complex queries                                        |
+|                   | 🎓 Served as a SQL consultant at [Data Lemur](https://datalemur.com/)             |
+| **Python**        | 🐍 Proficient in data manipulation, analysis, and visualization using Python     |
+|                   | 🕸️ Experienced in web scraping and executing data science projects                |
+| **Data Science**  | 🔬 Skilled in data preprocessing, exploratory data analysis (EDA), machine learning (ML), deep learning (DL), and natural language processing (NLP)   |
+|                   | 📈 Adept at building predictive models and applying analytics techniques           |
+| **Data Engineering** | 🌉 Proficient in data extraction, transformation, and loading (ETL) processes   |
+
 
 ## **🔭 Professional Interests**
 
