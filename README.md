@@ -1,6 +1,6 @@
 # 🙆‍♂️ My Introduction
 
-Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data into meaningful insights. 🌟 With a Master's degree in Business Analytics and 4 years of hands-on experience, I'm eager to tackle complex data challenges. Take a peek at my portfolio below to see what I’ve been up to!
+Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data into meaningful insights. 🌟 With a Master's degree in Business Analytics and 4 years of hands-on experience, I'm eager to tackle complex data challenges. Take a peek at my portfolio to see what I’ve been up to!
 Click here 👉 [Project Portfolio](https://github.com/mudit-mishra8/My-Portfolio/blob/main/README.md) 
 
 ## 🛠 **Skills & Expertise**
