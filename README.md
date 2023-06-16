@@ -6,8 +6,7 @@ Hi there! I'm **Mudit**, a data professional dedicated to transforming raw data 
 
 | Skill Domain      | Skills                                                                           |
 |-------------------|----------------------------------------------------------------------------------|
-| **SQL**           | 🧩 Deep understanding of SQL                                                      |
-|                   | 🚀 Developed and optimized complex queries                                        |
+| **SQL**           |  🚀 Developed and optimized complex queries                                                 |
 |                   | 🎓 Served as a SQL consultant at [Data Lemur](https://datalemur.com/)             |
 | **Python**        | 🐍 Proficient in data manipulation, analysis, and visualization using Python     |
 |                   | 🕸️ Experienced in web scraping and executing data science projects                |
