@@ -29,4 +29,4 @@ I'm thrilled to explore new opportunities in roles such as:
 
 Excited about data as I am? Feel free to reach out for questions, collaborations, or just to say hi! 
 
-*Contact Me: [LinkedIn](www.linkedin.com/in/mudit-mishra-01870721a) | [Email](mailto:mishramudit031@gmail.com)*
+*Contact Me: [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BMCpBFXvyRwCvGnZd7LrpDA%3D%3D) 
